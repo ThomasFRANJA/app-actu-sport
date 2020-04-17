@@ -1,4 +1,4 @@
-# app-actu-sport [native app]
+# app-actu-sport [cross-platform app]
 > ### Project by created with react-native & redux
 
 ## How to start app
